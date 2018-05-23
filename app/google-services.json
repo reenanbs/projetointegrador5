@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "551854957241",
+    "firebase_url": "https://bikerapp-ff4c3.firebaseio.com",
+    "project_id": "bikerapp-ff4c3",
+    "storage_bucket": "bikerapp-ff4c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551854957241:android:cfbef37c3475cbe9",
+        "android_client_info": {
+          "package_name": "android.biker.com.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551854957241-6ovu1lnbudqk0ke91sqqr0k583rshfqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKf5bMK9fGjLEjqR-4aPOfjhYmxecJ2DI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
