@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Android\\BikerIntegradorAndroid\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\João Paulo\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\7dad03bd1212367268e7c55ab5654aee\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "C:\\Android\\BikerIntegradorAndroid\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\João Paulo\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\7dad03bd1212367268e7c55ab5654aee\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Android\\BikerIntegradorAndroid\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\João Paulo\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\7dad03bd1212367268e7c55ab5654aee\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Android\\BikerIntegradorAndroid\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\João Paulo\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\7dad03bd1212367268e7c55ab5654aee\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    }
+]

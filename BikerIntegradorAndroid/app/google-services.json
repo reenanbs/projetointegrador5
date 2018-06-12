@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "643152733560",
+    "firebase_url": "https://bikerintegradorandroid.firebaseio.com",
+    "project_id": "bikerintegradorandroid",
+    "storage_bucket": "bikerintegradorandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643152733560:android:c1eb8e0fd8dbd6ac",
+        "android_client_info": {
+          "package_name": "android.integrador.biker.android.rentbike.bikerintegradorandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643152733560-bir0oouk4hcildbtbvf39ec0vars5qbe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.integrador.biker.android.rentbike.bikerintegradorandroid",
+            "certificate_hash": "d6ab3a27ca856487841c5a33484417e2d18890c9"
+          }
+        },
+        {
+          "client_id": "643152733560-vqsbpnkvqjo0gng9flkgjbu7ubd6daqo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "643152733560-vqsbpnkvqjo0gng9flkgjbu7ubd6daqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHASktPy1TqCV0v2LX6YvKoedzdWD3BFs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643152733560-vqsbpnkvqjo0gng9flkgjbu7ubd6daqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

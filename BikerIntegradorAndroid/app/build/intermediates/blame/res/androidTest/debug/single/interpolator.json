@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Android\\BikerIntegradorAndroid\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\interpolator\\mr_linear_out_slow_in.xml",
+        "source": "C:\\Users\\João Paulo\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\7765c1911c35afcb24f0f4689b38d728\\res\\interpolator\\mr_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "C:\\Android\\BikerIntegradorAndroid\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\interpolator\\mr_fast_out_slow_in.xml",
+        "source": "C:\\Users\\João Paulo\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-26.1.0.aar\\7765c1911c35afcb24f0f4689b38d728\\res\\interpolator\\mr_fast_out_slow_in.xml"
+    }
+]

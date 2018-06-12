@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Android\\BikerIntegradorAndroid\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\João Paulo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7630a7f5d307906239e9a9a6a7f1f26e\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Android\\BikerIntegradorAndroid\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\João Paulo\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-12.0.1.aar\\6abb97cbecbd51743e6e6f9d0471a041\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Android\\BikerIntegradorAndroid\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\João Paulo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7630a7f5d307906239e9a9a6a7f1f26e\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Android\\BikerIntegradorAndroid\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\João Paulo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7630a7f5d307906239e9a9a6a7f1f26e\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Android\\BikerIntegradorAndroid\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\João Paulo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\7630a7f5d307906239e9a9a6a7f1f26e\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]
